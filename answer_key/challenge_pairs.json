@@ -1,0 +1,92 @@
+[
+ {
+  "n": 1,
+  "plaintext": "Attack at dawn from the north gate",
+  "ciphertext": "KQBVQ SFZNR VNKSG HGYLS ECZPP TYB",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "KQBVQ SFZNR VNKSG HGYLS ECZPP TYB",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 2,
+  "plaintext": "Never trust unverified network traffic",
+  "ciphertext": "CCLHU WAEZK LREPM HROFN YTZSO KVWKQ KKSHI H",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "CCLHU WAEZK LREPM HROFN YTZSO KVWKQ KKSHI H",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 3,
+  "plaintext": "The firewall blocks every unknown port",
+  "ciphertext": "FOWTZ BBNOI SKUOW VGKIN XDZCN PTISM NEQC",
+  "valid": false,
+  "fault": "flip",
+  "true_ciphertext": "FOWTZ BBGOI SKUOW VGKIN XDZCN PTISM NEQC",
+  "how": "Type C - letter 8 of the correct ciphertext was shifted six places along the alphabet."
+ },
+ {
+  "n": 4,
+  "plaintext": "Strong keys protect weak messages",
+  "ciphertext": "GVWZE PKHIH LWTNE LGCBK EHGLL PTDFH",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "GVWZE PKHIH LWTNE LGCBK EHGLL PTDFH",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 5,
+  "plaintext": "Karachi hosts a secure operations center",
+  "ciphertext": "HPSKT SRXTK LSKZI LHOHS FRCHU QTLAQ KHMYR P",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "HPSKT SRXTK LSKZI LHOHS FRCHU QTLAQ KHMYR P",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 6,
+  "plaintext": "Encryption turns plain words into noise",
+  "ciphertext": "OQZHM XZSSR IWNFI YDTCO RXHVD GPVYT FQMG",
+  "valid": false,
+  "fault": "nomirror",
+  "true_ciphertext": "MHZQO XZSSR IFNWI YDTCO DVHXR GPVYT GMQF",
+  "how": "Type B - Playfair and Cascade done correctly but Mirror-5 skipped."
+ },
+ {
+  "n": 7,
+  "plaintext": "A packet travels through many routers",
+  "ciphertext": "QSYMT NTBYW ILCNU ENHEA UALYO DHQRI GNPY",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "QSYMT NTBYW ILCNU ENHEA UALYO DHQRI GNPY",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 8,
+  "plaintext": "Cryptanalysis rewards patient analysts",
+  "ciphertext": "DEKCP KCPZW QFRSR CEGTM SINWY IXKUP RRHPO P",
+  "valid": false,
+  "fault": "nearkey",
+  "true_ciphertext": "VEKCP KCPZW QFRCR CEGFM SINWY UXKUP RRRPO P",
+  "how": "Type A - encrypted with CASCODE instead of CASCADE (fifth key letter differs)."
+ },
+ {
+  "n": 9,
+  "plaintext": "The red team will find every pattern",
+  "ciphertext": "BHUTZ DSKQY ZMSBB PVTBC NSHHZ TZRIK UX",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "BHUTZ DSKQY ZMSBB PVTBC NSHHZ TZRIK UX",
+  "how": "Encrypted with the real key."
+ },
+ {
+  "n": 10,
+  "plaintext": "Security is a process not a product",
+  "ciphertext": "CEEBZ CZKCH QOFEU GQKYL PPTAQ VQIMB",
+  "valid": true,
+  "fault": "correct",
+  "true_ciphertext": "CEEBZ CZKCH QOFEU GQKYL PPTAQ VQIMB",
+  "how": "Encrypted with the real key."
+ }
+]
