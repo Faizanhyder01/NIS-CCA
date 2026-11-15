@@ -1,0 +1,22 @@
+Cascade-Lattice Cipher - Challenge Sheet (7 correct pairs, 3 incorrect)
+
+1. PT: Attack at dawn from the north gate
+   CT: KQBVQ SFZNR VNKSG HGYLS ECZPP TYB
+2. PT: Never trust unverified network traffic
+   CT: CCLHU WAEZK LREPM HROFN YTZSO KVWKQ KKSHI H
+3. PT: The firewall blocks every unknown port
+   CT: FOWTZ BBNOI SKUOW VGKIN XDZCN PTISM NEQC
+4. PT: Strong keys protect weak messages
+   CT: GVWZE PKHIH LWTNE LGCBK EHGLL PTDFH
+5. PT: Karachi hosts a secure operations center
+   CT: HPSKT SRXTK LSKZI LHOHS FRCHU QTLAQ KHMYR P
+6. PT: Encryption turns plain words into noise
+   CT: OQZHM XZSSR IWNFI YDTCO RXHVD GPVYT FQMG
+7. PT: A packet travels through many routers
+   CT: QSYMT NTBYW ILCNU ENHEA UALYO DHQRI GNPY
+8. PT: Cryptanalysis rewards patient analysts
+   CT: DEKCP KCPZW QFRSR CEGTM SINWY IXKUP RRHPO P
+9. PT: The red team will find every pattern
+   CT: BHUTZ DSKQY ZMSBB PVTBC NSHHZ TZRIK UX
+10. PT: Security is a process not a product
+   CT: CEEBZ CZKCH QOFEU GQKYL PPTAQ VQIMB

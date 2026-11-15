@@ -1,0 +1,52 @@
+[
+ {
+  "n": 1,
+  "plaintext": "Attack at dawn from the north gate",
+  "ciphertext": "KQBVQ SFZNR VNKSG HGYLS ECZPP TYB"
+ },
+ {
+  "n": 2,
+  "plaintext": "Never trust unverified network traffic",
+  "ciphertext": "CCLHU WAEZK LREPM HROFN YTZSO KVWKQ KKSHI H"
+ },
+ {
+  "n": 3,
+  "plaintext": "The firewall blocks every unknown port",
+  "ciphertext": "FOWTZ BBNOI SKUOW VGKIN XDZCN PTISM NEQC"
+ },
+ {
+  "n": 4,
+  "plaintext": "Strong keys protect weak messages",
+  "ciphertext": "GVWZE PKHIH LWTNE LGCBK EHGLL PTDFH"
+ },
+ {
+  "n": 5,
+  "plaintext": "Karachi hosts a secure operations center",
+  "ciphertext": "HPSKT SRXTK LSKZI LHOHS FRCHU QTLAQ KHMYR P"
+ },
+ {
+  "n": 6,
+  "plaintext": "Encryption turns plain words into noise",
+  "ciphertext": "OQZHM XZSSR IWNFI YDTCO RXHVD GPVYT FQMG"
+ },
+ {
+  "n": 7,
+  "plaintext": "A packet travels through many routers",
+  "ciphertext": "QSYMT NTBYW ILCNU ENHEA UALYO DHQRI GNPY"
+ },
+ {
+  "n": 8,
+  "plaintext": "Cryptanalysis rewards patient analysts",
+  "ciphertext": "DEKCP KCPZW QFRSR CEGTM SINWY IXKUP RRHPO P"
+ },
+ {
+  "n": 9,
+  "plaintext": "The red team will find every pattern",
+  "ciphertext": "BHUTZ DSKQY ZMSBB PVTBC NSHHZ TZRIK UX"
+ },
+ {
+  "n": 10,
+  "plaintext": "Security is a process not a product",
+  "ciphertext": "CEEBZ CZKCH QOFEU GQKYL PPTAQ VQIMB"
+ }
+]
